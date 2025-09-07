@@ -1,5 +1,4 @@
 a.ads.rmbl.ws
 ads.rumble.com
 cdn.sift.com
-connect.facebook.net
 www.googletagmanager.com

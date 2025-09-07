@@ -1,0 +1,6 @@
+||a.ads.rmbl.ws^
+||ads.rumble.com^
+||cdn.sift.com^
+||connect.facebook.net^$script
+||googletagmanager.com^$script
+||rumble.com^$third-party,domain=*.view
